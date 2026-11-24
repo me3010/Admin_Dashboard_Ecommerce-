@@ -156,10 +156,6 @@ The application uses Redux Toolkit Query with `fetchBaseQuery` to communicate wi
 
 Coming soon.
 
-## 📸 Screenshots
-
-Screenshots will be added soon.
-
 ## 📄 License
 
 This project is currently not distributed under a specified open-source license.
