@@ -157,4 +157,4 @@ Coming soon.
 
 ## 📄 License
 
-This project is currently not distributed under a specified open-source license .
+This project is currently not distributed under a specified open-source license  .
