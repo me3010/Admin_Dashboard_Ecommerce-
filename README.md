@@ -105,7 +105,6 @@ Copy-Item .env.example .env
 ```
 
 5. Configure the API URL in `.env`:
-
 ```env
 VITE_BASE_URL=https://your-api-url.com
 ```
@@ -158,4 +157,4 @@ Coming soon.
 
 ## 📄 License
 
-This project is currently not distributed under a specified open-source license.
+This project is currently not distributed under a specified open-source license .
