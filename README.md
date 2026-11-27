@@ -153,7 +153,7 @@ The application uses Redux Toolkit Query with `fetchBaseQuery` to communicate wi
 
 ## 🌐 Live Demo
 
-Coming soon.
+https://admin-dashboard-psi-jet-96.vercel.app
 
 ## 📄 License
 
